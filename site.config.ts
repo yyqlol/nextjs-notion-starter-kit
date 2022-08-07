@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Yiqi Yan',
-  domain: 'nextjs-notion-starter-kit.transitivebullsh.it',
+  domain: 'yiqiswork.com',
   author: 'Yiqi Yan',
 
   // open graph metadata (optional)

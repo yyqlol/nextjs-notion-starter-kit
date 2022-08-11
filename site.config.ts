@@ -14,10 +14,10 @@ export default siteConfig({
   author: 'Yiqi Yan',
 
   // open graph metadata (optional)
-  description: 'Example Next.js Notion Starter Kit Site',
+  description: 'Yiqis working space',
 
   // social usernames (optional)
-  linkedin: 'yiqi yan',
+  linkedin: 'yiqi-y-0b4415132',
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
 

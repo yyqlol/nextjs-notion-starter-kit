@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Yiqi Yan',
-  domain: 'yiqiswork.com',
+  domain: 'https://yiqiswork.com/',
   author: 'Yiqi Yan',
 
   // open graph metadata (optional)

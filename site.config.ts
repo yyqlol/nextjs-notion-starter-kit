@@ -51,8 +51,8 @@ export default siteConfig({
   // navigationStyle: 'custom',
   // navigationLinks: [
   //   {
-  //     title: 'About',
-  //     pageId: 'f1199d37579b41cbabfc0b5174f4256a'
+  //     title: 'Resume',
+  //     pageId: '08f16178ac434c8e9320d95db938bc7a'
   //   },
   //   {
   //     title: 'Contact',

@@ -49,14 +49,14 @@ export default siteConfig({
   // important pages
   navigationStyle: 'custom'
   // navigationStyle: 'custom',
-  // navigationLinks: [
-  //   {
-  //     title: 'Resume',
-  //     pageId: '08f16178ac434c8e9320d95db938bc7a'
-  //   },
-  //   {
-  //     title: 'Contact',
-  //     pageId: '17e17e5151254bc0ad19a6fc42806ffb'
-  //   }
-  // ]
+  navigationLinks: [
+  {
+    title: 'Resume',
+      pageId: '08f16178ac434c8e9320d95db938bc7a'
+  },
+   {
+     title: 'Contact',
+     pageId: '17e17e5151254bc0ad19a6fc42806ffb'
+   }
+ ]
 })

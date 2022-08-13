@@ -53,14 +53,14 @@ export default siteConfig({
   {
     title: 'Fun',
     pageId: '83caab656b8c4e939ff1a34d19a1893f'
-    },
+  },
   {
     title: 'About',
     pageId: '0a736c36ebc1460ea5ea1f0786022a75'
-     },
+  },
   {
     title: 'Contact',
     pageId: '17e17e5151254bc0ad19a6fc42806ffb'
-    }
+  }
    ]
 })

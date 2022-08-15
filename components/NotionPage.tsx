@@ -165,7 +165,6 @@ export const NotionPage: React.FC<types.PageProps> = ({
       Equation,
       Pdf,
       Modal,
-      Tweet,
       Header: NotionPageHeader,
       propertyLastEditedTimeValue,
       propertyTextValue,

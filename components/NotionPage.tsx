@@ -102,9 +102,9 @@ const Modal = dynamic(
   }
 )
 
-//const Tweet = ({ id }: { id: string }) => {
-//  return <TweetEmbed tweetId={id} />
-//}
+const Tweet = ({ id }: { id: string }) => {
+  return <TweetEmbed tweetId={id} />
+}
 
 const propertyLastEditedTimeValue = (
   { block, pageHeader },

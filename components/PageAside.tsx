@@ -17,13 +17,13 @@ export const PageAside: React.FC<{
 
   // only display comments and page actions on blog post pages
   if (isBlogPost) {
-  const tweet = getPageTweet(block, recordMap)
+    const tweet = getPageTweet(block, recordMap)
     if (!tweet) {
       return null
     }
 
-  return <PageActions tweet={tweet} />
+    return <PageActions tweet={tweet} />
   }
 
-//  return <PageSocial />
+  return <PageSocial />
 }

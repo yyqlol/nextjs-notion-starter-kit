@@ -51,16 +51,18 @@ export default siteConfig({
   navigationStyle: 'custom',
   navigationLinks: [
   {
+    
+    title: 'Fun',
+    pageId: '1767da8db81f434993b4ceb0f7fe3c8c'
+  },
+  {
     title: 'About',
     pageId: '0a736c36ebc1460ea5ea1f0786022a75'
   },
   {
     title: 'Contact',
     pageId: '17e17e5151254bc0ad19a6fc42806ffb'
-  },
-      {
-    title: 'Fun',
-    pageId: '1767da8db81f434993b4ceb0f7fe3c8c'
   }
+
    ]
 })
